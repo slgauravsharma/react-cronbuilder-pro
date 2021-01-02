@@ -1,15 +1,15 @@
 {
-  "name": "react-cronbuilder",
+  "name": "react-cronbuilder-pro",
   "version": "1.0.0",
   "main": "dist/bundle.js",
   "description": "react component to create cron expression",
-  "repository": "https://github.com/slgauravsharma/react-cronbuilder",
+  "repository": "https://github.com/slgauravsharma/react-cronbuilder-pro",
   "license": "MIT",
   "author": "slgauravsharma",
   "bugs": {
-    "url": "https://github.com/slgauravsharma/react-cronbuilder/issues"
+    "url": "https://github.com/slgauravsharma/react-cronbuilder-pro/issues"
   },
-  "homepage": "https://github.com/slgauravsharma/react-cronbuilder#readme",
+  "homepage": "https://github.com/slgauravsharma/react-cronbuilder-pro#readme",
   "peerDependencies": {
     "lodash": "^4.17.2",
     "prop-types": "^15.6.0",
